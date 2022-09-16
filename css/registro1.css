@@ -1,0 +1,16 @@
+body{
+  background-color: hwb(162 71% 3%);
+  font-family: 'Spinnaker', sans-serif;
+  }
+.card {
+    border: 1px solid #FFF;
+    width: 500px!important;
+    height: 700px!important;
+    background-color: rgba(91, 243, 167, 0.7);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.card-title {
+  font-weight: bolder;
+}

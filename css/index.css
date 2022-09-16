@@ -1,0 +1,38 @@
+body{
+    background-color: #82ccdd;
+    font-family: 'Spinnaker', sans-serif;
+    }
+    h2{
+        text-align:center;
+        color:#fff;
+    }
+    img{
+    width: 100%;
+    }
+    h6{
+    font-size: 12px;
+    margin-top: 0px;
+    }
+    .card{
+    transition: none;
+    }
+    .card .card-content{
+    padding: 18px;
+    }
+    .card-title{
+    margin-bottom: 0 !important;
+    }
+    .bg-custom{
+    background-color: #82ccdd;
+    }
+    .card-action{
+    text-align: center;
+    padding: 14px !important;
+    }
+    .btn{
+    padding: 0 1.1rem !important;
+    font-size: 1.5rem;
+    }
+    .btn,.btn:hover{
+    background-color: #60a3bc;
+    }
